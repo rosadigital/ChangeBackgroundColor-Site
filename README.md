@@ -1,8 +1,8 @@
 # Business Website Models
 ## 💻 About this project (sobre este projeto)
-:us: This project aimed testing and learning HTML, CSS, and JS codes with focus on different types of responsive cards, based on youtube tutorials.
+:us: This project aimed testing and learning HTML, CSS, and JS codes with focus on creating differents business websites, based on youtube tutorials.
 
-:brazil: Este projeto teve por objetivo testar e conhecer códigos em HTML, CSS, e JS com foco em diferentes tipos de cards responsivos, baseado em tutoriais do youtube.
+:brazil: Este projeto teve por objetivo testar e conhecer códigos em HTML, CSS, e JS com foco em criar diferentes sites corporativos, baseado em tutoriais do youtube.
 
 ---
 ## ⚙️ Project demonstration (demontração do projeto)
@@ -18,7 +18,7 @@
 
 <p align="center"> <img alt="03_landingpage_responsive" title="#03_landingpage_responsive" src="./assets/03_landingpage_responsive.jpg" width="400px">
 
-- A simples business website made using Boostrap
+- Model 04: A simples business website made using Boostrap
 <p align="center"> <img alt="04_bootstrap_frontpage" title="#04_bootstrap_frontpage" src="./assets/04_bootstrap_frontpage.gif" width="400px">
 
 <p align="center"> <img alt="04_bootstrap_responsive" title="#04_bootstrap_responsive" src="./assets/04_bootstrap_responsive.gif" width="400px">
@@ -30,7 +30,8 @@
 
 - During this project, I learned:
   - integrate CSS and HTML codes;
-  - using containers on HTML and hover it by CSS.
+  - integrate bootstrap to a website project; and
+  - organize a landingpage structure.
 
 
 ---
@@ -48,7 +49,7 @@ Before you begin, you will need to install on your computer the following tool: 
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:rosadigital/Neon-button.git
+$ git@github.com:rosadigital/CorporateWebsiteModels.git
 
 # Open the repository on VS Code to run
 
