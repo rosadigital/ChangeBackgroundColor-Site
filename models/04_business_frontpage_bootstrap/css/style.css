@@ -1,0 +1,65 @@
+body {
+    font: 20px arial sans-serif;
+}
+
+footer {
+    background-color: #A4A4A4;
+    margin-bottom:30px;
+    color: white;
+    text-align: center;
+
+}
+
+.navbar {
+    background-color: #A4A4A4;
+}
+
+h1 {
+    color: #585858;
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+p {
+    font-size: 18px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.logo {
+    width:30px;
+}
+
+.servicos {
+    background-color: #F2F2F2;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.clientes {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.parceiros {
+    background-color: #D8D8D8;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.time {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.contato {
+    background-color: #F2F2F2;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
