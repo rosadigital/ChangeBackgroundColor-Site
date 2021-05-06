@@ -1,4 +1,4 @@
-# Change background color
+# Business Website Models
 ## 💻 About this project (sobre este projeto)
 :us: This project aimed testing and learning HTML, CSS, and JS codes with focus on different types of responsive cards, based on youtube tutorials.
 
@@ -7,11 +7,21 @@
 ---
 ## ⚙️ Project demonstration (demontração do projeto)
 
-- Responsive card by HTML, and CSS
-<p align="center"> <img alt="responsive-card" title="#responsive-card" src="./assets/responsive-card.gif" width="400px">
+- Model 01: A simple website for travel business designed on Scrath 
+<p align="center"> <img alt="01_scratch_frontpage" title="#01_scratch_frontpage" src="./assets/01_scratch_frontpage.gif" width="400px">
 
-- Responsive profile card by HTML, and CSS
-<p align="center"> <img alt="responsive-profile-card" title="#responsive-profile-card" src="./assets/responsive-profile-card.gif" width="400px">
+- Model 02: A simple website with navbar animated 
+<p align="center"> <img alt="02_bootstrap_frontpage" title="#02_bootstrap_frontpage" src="./assets/02_bootstrap_frontpage.gif" width="400px">
+
+- Model 03: Responsive landing page
+<p align="center"> <img alt="03_landingpage" title="#03_landingpage" src="./assets/03_landingpage.jpg" width="400px">
+
+<p align="center"> <img alt="03_landingpage_responsive" title="#03_landingpage_responsive" src="./assets/03_landingpage_responsive.jpg" width="400px">
+
+- A simples business website made using Boostrap
+<p align="center"> <img alt="04_bootstrap_frontpage" title="#04_bootstrap_frontpage" src="./assets/04_bootstrap_frontpage.gif" width="400px">
+
+<p align="center"> <img alt="04_bootstrap_responsive" title="#04_bootstrap_responsive" src="./assets/04_bootstrap_responsive.gif" width="400px">
 
 
 ---
